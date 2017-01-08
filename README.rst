@@ -13,7 +13,7 @@ Monitor the CPU and RAM usage of all the processes running on your server.
 
 When something goes wrong, receive real time notifications via Email or SMS
 
-.. figure:: https://raw.github.com/martinrusev/amonone/master/preview/screenshot.png
+.. figure:: https://raw.githubusercontent.com/amonapp/amonone/master/preview/screenshot.png
 
 
 
